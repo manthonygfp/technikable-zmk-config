@@ -35,8 +35,8 @@
             label = "Num";
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans        &kp EQUAL  &trans     &trans    &trans     &trans     &trans
-&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5        &kp MINUS  &kp LBKT   &kp RBKT  &kp GRAVE  &trans     &trans
-&trans  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0        &kp ESC    &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT  &trans
+&kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans        &kp MINUS  &kp LBKT   &kp RBKT  &kp GRAVE  &trans     &trans
+&kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &trans        &kp ESC    &kp LEFT   &kp DOWN  &kp UP     &kp RIGHT  &trans
                 &trans  &trans      &trans            &trans     &sl FUN_L  &trans    &trans
             >;
         };
